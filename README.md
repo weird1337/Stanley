@@ -32,7 +32,7 @@ sudo apt-get install python2
 sudo apt-get install python3-pip
 sudo apt-get install npm
 sudo apt-get install nodejs
-cd Stellar
+cd Stanley
 npm i crypto-random-string
 npm i events
 npm i fs
