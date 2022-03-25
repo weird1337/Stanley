@@ -14,7 +14,7 @@ The source is not mine, I just made a few additions, the original owner of the s
 
 # Plz ♥️
 It would help me a lot if you give a star ⭐ to this repository.<br>
-One star from you = more desire to continue updating stellar
+One star from you = more desire to continue updating Stanley
 
 # Stanley Info
 - [x] Open Source
