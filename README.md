@@ -9,7 +9,7 @@
 
 # Tree
 * [Read this Pls](#plz-%EF%B8%8F)
-* [Stellar Info](Stellar-Info)
+* [Stanley Info](Stanley-Info)
 * [Setup](#Setup)
 * [Credits](#Credits)
 * [T.O.S](#TOS)
