@@ -27,26 +27,7 @@ One star from you = more desire to continue updating Stanley
 # Setup
 ```sh
 git clone https://github.com/weird1337/Stanley
-sudo apt-get install python3
-sudo apt-get install python2
-sudo apt-get install python3-pip
-sudo apt-get install npm
-sudo apt-get install nodejs
-cd Stanley
-npm i crypto-random-string
-npm i events
-npm i fs
-npm i net
-npm i cloudscraper
-npm i request
-npm i hcaptcha-solver
-npm i randomstring
-npm i cluster
-npm i cloudflare-bypasser
-pip3 install datetime
-pip3 install requests
-pip3 install cfscrape
-python3 -m pip3 install -r requirements.txt
+sudo python3 installer.py
 ulimit -n 999999
 chmod +x *
 sudo python3 stanley.py
