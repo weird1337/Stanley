@@ -1,15 +1,11 @@
-# Stanley
-
-# 🚀 Stanley - Free DDoS Panel 🚀
+# 🚀 Stellar: New Age v4 - Free DDoS Panel 🚀
 > Your terminal has to accept ANSI colors so that the colors can be seen<br>
-> Username: 1337<br>
-> Password: 1337<br>
-
-# NOT: The source is not mine, I just made a few additions, the original owner of the source SkyWtkh
+> Username: GhostW<br>
+> Password: StellarW<br>
 
 # Tree
 * [Read this Pls](#plz-%EF%B8%8F)
-* [Stanley Info](Stanley-Info)
+* [Stellar Info](Stellar-Info)
 * [Setup](#Setup)
 * [Credits](#Credits)
 * [T.O.S](#TOS)
@@ -18,7 +14,7 @@
 It would help me a lot if you give a star ⭐ to this repository.<br>
 One star from you = more desire to continue updating stellar
 
-# Stanley Info
+# Stellar Info
 - [x] Open Source
 - [x] Stable
 - [x] Simple
