@@ -1,11 +1,13 @@
-# 🚀 Stellar: New Age v4 - Free DDoS Panel 🚀
+# 🚀 Stanley- Free DDoS Panel 🚀
 > Your terminal has to accept ANSI colors so that the colors can be seen<br>
-> Username: GhostW<br>
-> Password: StellarW<br>
+> Username: 1337<br>
+> Password: 1337<br>
+
+The source is not mine, I just made a few additions, the original owner of the source SkyWtkh
 
 # Tree
 * [Read this Pls](#plz-%EF%B8%8F)
-* [Stellar Info](Stellar-Info)
+* [Stanley Info](Stanley-Info)
 * [Setup](#Setup)
 * [Credits](#Credits)
 * [T.O.S](#TOS)
@@ -14,17 +16,17 @@
 It would help me a lot if you give a star ⭐ to this repository.<br>
 One star from you = more desire to continue updating stellar
 
-# Stellar Info
+# Stanley Info
 - [x] Open Source
 - [x] Stable
 - [x] Simple
 - [x] Methods for Layer 4 and 7
 - [x] Bypass (CF, OVH, Etc)  
-
+- The source is not mine, I just made a few additions, the original owner of the source SkyWtkh
 
 # Setup
 ```sh
-git clone https://github.com/SkyWtkh/Stellar
+git clone https://github.com/weird1337/Stanley
 sudo apt-get install python3
 sudo apt-get install python2
 sudo apt-get install python3-pip
@@ -47,11 +49,12 @@ pip3 install cfscrape
 python3 -m pip3 install -r requirements.txt
 ulimit -n 999999
 chmod +x *
-sudo python3 cnc.py
+sudo python3 stanley.py
 ```
 
 # Credits
 ```sh
+CNC Coded SkyWtkh
 MHProDev
 Empfaked
 im-federal
