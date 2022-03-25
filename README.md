@@ -27,6 +27,7 @@ One star from you = more desire to continue updating Stanley
 # Setup
 ```sh
 git clone https://github.com/weird1337/Stanley
+cd Stanley
 sudo python3 installer.py
 ulimit -n 999999
 chmod +x *
