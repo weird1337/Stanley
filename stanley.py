@@ -9,7 +9,6 @@ import sys
 def clear():
     os.system('cls' if os.name == 'nt' else 'clear')
 
-os.system ("rm -rf proxies.txt && wget http://51.107.82.239/xd/src/storage/proxies.txt")
 proxys = open('proxies.txt').readlines()
 bots = len(proxys)
 
